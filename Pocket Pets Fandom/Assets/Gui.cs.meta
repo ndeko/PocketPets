@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 18e2759aa3e8f1e4d8e4cc0ddd1dd712
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myPet: {instanceID: 0}
+  - bgImage: {fileID: 2800000, guid: 3579e701a4abcd54587ed5138b81651b, type: 3}
+  - fgImage: {fileID: 2800000, guid: 8ecf4a7fd1b4ddd49bfb5bb36abd031e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
