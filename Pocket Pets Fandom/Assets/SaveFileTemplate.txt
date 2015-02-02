@@ -1,0 +1,10 @@
+Castiel,100,100,100,10,5,5
+Castiel:-1,Dean:0,Sam:0,Sherlock:0,John:50
+John,100,100,100,10,5,5,
+Castiel:0,Dean:0,Sam:0,Sherlock:0,John:-1
+Sam,100,100,100,10,5,5,
+Castiel:0,Dean:0,Sam:-1,Sherlock:0,John:50
+Dean,100,100,100,10,5,5,
+Castiel:0,Dean:-1,Sam:0,Sherlock:0,John:50
+Sherlock,100,100,100,10,5,5,
+Castiel:-1,Dean:0,Sam:0,Sherlock:0,John:50
